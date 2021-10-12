@@ -1,5 +1,3 @@
-
-
 <header class="header">
     <a href="index.html" class="logo">
         <!-- Add the class icon to your logo image or logo icon to add the margining -->
@@ -274,10 +272,10 @@
                         <span>Attendance</span>
                         <i class="fa fa-angle-left pull-right"></i>
                         <ul class="treeview-menu">
-                        <li><a href="pages/charts/morris.html"><i class="fa fa-angle-double-right"></i> Check In</a></li>
-                        <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> Check Out</a></li>
-                        <li><a href="pages/charts/inline.html"><i class="fa fa-angle-double-right"></i> Attendance History</a></li>
-                    </ul>
+                            <li><a href="pages/charts/morris.html"><i class="fa fa-angle-double-right"></i> Check In</a></li>
+                            <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> Check Out</a></li>
+                            <li><a href="pages/charts/inline.html"><i class="fa fa-angle-double-right"></i> Attendance History</a></li>
+                        </ul>
                     </a>
                 </li>
                 <li class="treeview">
@@ -298,13 +296,12 @@
                         <span>Recruitment</span>
                         <i class="fa fa-angle-left pull-right"></i>
                     </a>
-                    
+
                 </li>
-                <li class="treeview">
-                    <a href="#">
+                <li>
+                    <a href="employeeMain.php">
                         <i class="fa fa-edit"></i> <span>Employee Management</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a
+                    </a>
                 </li>
                 <li class="treeview">
                     <a href="#">
